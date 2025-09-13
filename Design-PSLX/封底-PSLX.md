@@ -4,3 +4,4 @@
 <grid drag="40 70" drop="30 15" class="content backcover" align="center" pad="0 40px"  >
 <% content %>
 </grid>
+![[Style-PSLX]]

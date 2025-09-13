@@ -1,3 +1,4 @@
+<style>
 .reveal .slides section .header.pslx {
   justify-content: space-between !important;
   align-items: center;
@@ -24,3 +25,5 @@
   --r-progress-text-color: var(--r-main-color);
   --r-list-background-color: #f8f8f8;
 }
+
+</style>
